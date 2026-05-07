@@ -6,8 +6,7 @@ std::cout << "Hello World!" << std::endl;
     Sou desenvolvedor Python em nível intermediário e possuo conhecimentos básicos em C, C# e C++. Tenho interesse em desenvolvimento de software, lógica de programação e resolução de problemas através da programação. Atualmente curso Sistemas de Informação no Instituto Federal do Espírito Santo.
 </p>
 
-<p align="left">📬 Contato:</p>
-
+### Contato:
 <p align="left">    
   <a href="mailto:marcosviniciusguimaraesdejesus" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
