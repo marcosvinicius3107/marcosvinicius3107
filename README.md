@@ -1,5 +1,5 @@
 <p align="left"> 
-    Desenvolvedor Python de nível intermediário, aprendendo a linguagem C. Atualmente estudante do curso de Sistemas de Informação pelo Instituto Federal do Espírito Santo.
+    Desenvolvedor Python de nível intermediário e C básico. Cursando Sistemas de Informação pelo Instituto Federal do Espírito Santo.
 </p>
 
 ### Principais Linguagens
