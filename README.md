@@ -1,10 +1,31 @@
-<p align="left"> 
-    Desenvolvedor Python de nível intermediário e C básico. Cursando Sistemas de Informação pelo Instituto Federal do Espírito Santo.
+```cpp
+std::cout << "Hello World!" << std::endl;
+```
+<br>
+<p align="justify"> 
+    Sou desenvolvedor Python em nível intermediário e possuo conhecimentos básicos em C, C# e C++. Tenho interesse em desenvolvimento de software, lógica de programação e resolução de problemas através da programação. Atualmente curso Sistemas de Informação no Instituto Federal do Espírito Santo.
 </p>
 
-### Principais Linguagens
-<img src="https://skillicons.dev/icons?i=python,c&theme=light" />
+<p align="left">📬 Contato:</p>
 
+<p align="left">    
+  <a href="mailto:marcosviniciusguimaraesdejesus" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/marcosvg31" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
+</p>
+
+---
+
+### Linguagens de Programação:
+<img src="https://skillicons.dev/icons?i=python,c,cs,cpp&theme=light" />
+
+### Ferramentas:
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+
+---
 <div align="center">
     <p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
